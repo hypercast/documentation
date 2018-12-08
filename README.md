@@ -1,2 +1,2 @@
 # documentation
-contains documentation describing components and APIs of Hypercast
+Contains documentation describing components and APIs of Hypercast
